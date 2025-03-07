@@ -1,0 +1,38 @@
+{
+  "os":  "Linux-6.1.0-31-amd64-x86_64-with-glibc2.36",
+  "python":  "CPython 3.10.16",
+  "startedAt":  "2025-03-05T14:07:57.500073Z",
+  "program":  "/home/akshay/Desktop/DL/assignment-01/sample.py",
+  "codePath":  "sample.py",
+  "email":  "me21b014@smail.iitm.ac.in",
+  "root":  "/home/akshay/Desktop/DL/assignment-01",
+  "host":  "akshay",
+  "executable":  "/home/akshay/anaconda3/envs/ML_gpu/bin/python",
+  "codePathLocal":  "sample.py",
+  "cpu_count":  8,
+  "cpu_count_logical":  16,
+  "gpu":  "NVIDIA GeForce RTX 3060 Laptop GPU",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "981813280768",
+      "used":  "168978857984"
+    }
+  },
+  "memory":  {
+    "total":  "16611721216"
+  },
+  "cpu":  {
+    "count":  8,
+    "countLogical":  16
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "NVIDIA GeForce RTX 3060 Laptop GPU",
+      "memoryTotal":  "6442450944",
+      "cudaCores":  3840,
+      "architecture":  "Ampere"
+    }
+  ],
+  "cudaVersion":  "12.2"
+}

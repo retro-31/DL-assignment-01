@@ -1,0 +1,16 @@
+{"time":"2025-03-05T19:37:57.501438749+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7.dev1","symlink path":"/home/akshay/Desktop/DL/assignment-01/wandb/run-20250305_193757-fkxx63m7/logs/debug-core.log"}
+{"time":"2025-03-05T19:37:57.604425057+05:30","level":"INFO","msg":"created new stream","id":"fkxx63m7"}
+{"time":"2025-03-05T19:37:57.604452644+05:30","level":"INFO","msg":"stream: started","id":"fkxx63m7"}
+{"time":"2025-03-05T19:37:57.604470873+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"fkxx63m7"}
+{"time":"2025-03-05T19:37:57.604488962+05:30","level":"INFO","msg":"sender: started","stream_id":"fkxx63m7"}
+{"time":"2025-03-05T19:37:57.60450747+05:30","level":"INFO","msg":"handler: started","stream_id":"fkxx63m7"}
+{"time":"2025-03-05T19:37:58.028912971+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-05T19:37:58.189689196+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-05T19:37:58.190144844+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-05T19:37:59.150176853+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading requirements.txt","runtime_seconds":0.688272866,"progress":"3.3KB/3.3KB"},{"desc":"uploading output.log","runtime_seconds":0.005619892},{"desc":"uploading wandb-summary.json","runtime_seconds":0.005609766,"progress":"144B/144B"}],"total_operations":3}}
+{"time":"2025-03-05T19:38:00.44150711+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-05T19:38:01.765611062+05:30","level":"INFO","msg":"stream: closing","id":"fkxx63m7"}
+{"time":"2025-03-05T19:38:01.765640884+05:30","level":"INFO","msg":"handler: closed","stream_id":"fkxx63m7"}
+{"time":"2025-03-05T19:38:01.76565618+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"fkxx63m7"}
+{"time":"2025-03-05T19:38:01.765665608+05:30","level":"INFO","msg":"sender: closed","stream_id":"fkxx63m7"}
+{"time":"2025-03-05T19:38:01.765715266+05:30","level":"INFO","msg":"stream: closed","id":"fkxx63m7"}
