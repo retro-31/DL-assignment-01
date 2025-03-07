@@ -7,6 +7,9 @@ def load_data(dataset="fashion_mnist"):
         (X_train, y_train), (X_test, y_test) = mnist.load_data()
     else:
         (X_train, y_train), (X_test, y_test) = fashion_mnist.load_data()
+    
+    # code for visualizing the dataset samples
+    '''
     # unique classes
     classes = np.unique(y_train)
 
@@ -27,6 +30,7 @@ def load_data(dataset="fashion_mnist"):
 
     plt.tight_layout()
     plt.show()
+    '''
 
     X_train = X_train.reshape(-1, 784) / 255.0
     X_test = X_test.reshape(-1, 784) / 255.0
