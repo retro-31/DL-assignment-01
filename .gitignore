@@ -1,0 +1,6 @@
+# ignore __pycache__ directories
+__pycache__/
+# ignore wandb directories
+wandb/
+# ignore .vscode directories
+.vscode/
