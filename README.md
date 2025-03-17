@@ -58,7 +58,7 @@ pip install requirements.txt
 
 To train the model using default settings, execute:
 ```bash
-python train.py -wp sample -we retro-31-indian-institute-of-technology-madras -d fashion_mnist -e 10 -b 64 -l cross_entropy -o nadam -lr 0.001 -m 0.5 -beta 0.5 -beta1 0.5 -beta2 0.5 -eps 1e-6 -w_d 0.0 -w_i xavier -nhl 4 -sz 64 -a relu
+python train.py -wp sample -we retro-31-indian-institute-of-technology-madras -d fashion_mnist -e 10 -b 64 -l cross_entropy -o nadam -lr 0.001 -m 0.5 -beta 0.5 -beta1 0.5 -beta2 0.5 -eps 1e-6 -w_d 0.0 -w_i xavier -nhl 4 -sz 64 -a tanh
 ```
 ## Hyperparameter Sweeps
 
