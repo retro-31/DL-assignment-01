@@ -1,0 +1,6 @@
+# tested for python 3.x
+numpy
+keras
+wandb
+matplotlib
+sklearn
