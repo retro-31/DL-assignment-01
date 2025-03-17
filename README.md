@@ -4,9 +4,11 @@
 This repository contains all the code used for the assignment. It has been organised and works with the parameters specified in the question. 
 The report containing the solutions are attached as a link below
 
-### Solution Report
+### Solution Report and repository codebase
 
-Link: [text](https://wandb.ai/retro-31-indian-institute-of-technology-madras/DL-assignment-01/reports/DA6401-Assignment-1-ME21B014--VmlldzoxMTY4OTkzMA)
+Report Link: [wandb-report](https://wandb.ai/retro-31-indian-institute-of-technology-madras/DL-assignment-01/reports/DA6401-Assignment-1-ME21B014--VmlldzoxMTY4OTkzMA)
+
+Repository Link: [codebase](https://github.com/retro-31/DL-assignment-01)
 
 ## Project Structure
 
