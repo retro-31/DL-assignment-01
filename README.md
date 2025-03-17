@@ -6,7 +6,7 @@ The report containing the solutions are attached as a link below
 
 ### Solution Report
 
-link: https://wandb.ai/retro-31-indian-institute-of-technology-madras/DL-assignment-01/reports/DA6401-Assignment-1-ME21B014--VmlldzoxMTY4OTkzMA
+Link: [text](https://wandb.ai/retro-31-indian-institute-of-technology-madras/DL-assignment-01/reports/DA6401-Assignment-1-ME21B014--VmlldzoxMTY4OTkzMA)
 
 ## Project Structure
 
